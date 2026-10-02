@@ -1,0 +1,6 @@
+{
+  "name": "Davetrack Technologies Receipt & Invoice Generator",
+  "description": "Generate, customize, print, and download professional PDF receipts and sales invoices for Davetrack Technologies CCTV & security hardware purchases.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
